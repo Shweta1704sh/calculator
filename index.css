@@ -1,0 +1,57 @@
+*
+{
+    margin:auto;
+    padding:auto;
+}
+#myDIV
+{
+    margin-top:100px;
+    margin-left:40%;
+    height:475px;
+    width:20%;
+    padding-top:1%;
+    text-align:center;
+    border:2px solid grey;
+    border-radius:10px;    
+}
+.button
+{
+    
+    margin-left:5%;
+    margin-top:2%;
+}
+i
+{
+    color:#a62054;
+    float:center;
+    font-size:36px;
+    margin-top:10px;
+}
+#foot
+{
+   margin-top:3%;
+   text-align:center;
+   line-height: 0.01;
+   color:#953131;
+}
+.mystyle
+{
+    background-color:black;
+}
+@media screen and (max-width:500px)
+{
+    #myDIV
+    {
+        width:80%;
+        margin-left:5%;
+    }
+}
+@media screen and (min-width:300px)
+{
+    #myDIV
+    {
+        width:70%;
+        margin-left:5%;
+    }
+   
+}
