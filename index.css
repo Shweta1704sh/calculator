@@ -6,9 +6,8 @@
 #myDIV
 {
     margin-top:100px;
-    margin-left:40%;
     height:475px;
-    width:20%;
+    width:300px;
     padding-top:1%;
     text-align:center;
     border:2px solid grey;
@@ -16,9 +15,10 @@
 }
 .button
 {
-    
+    position:relative;
     margin-left:5%;
     margin-top:2%;
+    box-shadow:5px 5px #ccc;
 }
 i
 {
@@ -29,10 +29,10 @@ i
 }
 #foot
 {
-   margin-top:3%;
-   text-align:center;
-   line-height: 0.01;
-   color:#953131;
+    color:#953131;
+    text-align:center;
+    line-height: 0.01;
+    margin-top:5px;
 }
 .mystyle
 {
