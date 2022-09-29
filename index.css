@@ -38,20 +38,3 @@ i
 {
     background-color:black;
 }
-@media screen and (max-width:500px)
-{
-    #myDIV
-    {
-        width:80%;
-        margin-left:5%;
-    }
-}
-@media screen and (min-width:300px)
-{
-    #myDIV
-    {
-        width:70%;
-        margin-left:5%;
-    }
-   
-}
